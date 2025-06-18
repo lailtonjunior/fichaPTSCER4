@@ -117,6 +117,3 @@ O projeto depende de um backend Supabase.
 
 ---
 
-## 📄 Licença
-
-MIT © [Seu Nome / Instituição]
